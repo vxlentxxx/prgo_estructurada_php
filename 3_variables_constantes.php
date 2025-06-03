@@ -33,8 +33,8 @@
 
     echo"<h2>Constantes</h2>";
 
-    /El valor de una constante no cambia o se mantiene fijo durante la ejecucion de una pagina./
-    /La forma de deifinir las constantes en PHP, es mediante el uso de la instruccion define./
+    //El valor de una constante no cambia o se mantiene fijo durante la ejecucion de una pagina./
+    //La forma de deifinir las constantes en PHP, es mediante el uso de la instruccion define./
 
     ?>
 
